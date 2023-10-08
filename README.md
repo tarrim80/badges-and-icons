@@ -1,12 +1,12 @@
-# Monochrome badges of my stack's technologies
+# Monochrome badges of my stack's technologies_badges
 The repository was created to host badges of my technology stack with subsequent linking to it.
 
 <div align=center>
 
-## Technologies:
+## technologies_badges:
 
-![](technologies/python.svg)&nbsp;![](technologies/git.svg)&nbsp;![](technologies/github.svg)&nbsp;![](technologies/django.svg)&nbsp;![](technologies/django_rest_framework.svg)&nbsp;![](technologies/postgresql.svg)&nbsp;![](technologies/sql_alchemy.svg)&nbsp;![](technologies/beautiful_soup.svg)&nbsp;![](technologies/scrapy.svg)&nbsp;![](technologies/selenium.svg)&nbsp;![](technologies/docker.svg)&nbsp;![](technologies/nginx.svg)&nbsp;![](technologies/gunicorn.svg)&nbsp;![](technologies/yandex_cloud.svg)&nbsp;
-![](technologies/html.svg)&nbsp;![](technologies/css.svg)
+![](technologies_badges_badges/python.svg)&nbsp;![](technologies_badges/git.svg)&nbsp;![](technologies_badges/github.svg)&nbsp;![](technologies_badges/django.svg)&nbsp;![](technologies_badges/django_rest_framework.svg)&nbsp;![](technologies_badges/postgresql.svg)&nbsp;![](technologies_badges/sql_alchemy.svg)&nbsp;![](technologies_badges/beautiful_soup.svg)&nbsp;![](technologies_badges/scrapy.svg)&nbsp;![](technologies_badges/selenium.svg)&nbsp;![](technologies_badges/docker.svg)&nbsp;![](technologies_badges/nginx.svg)&nbsp;![](technologies_badges/gunicorn.svg)&nbsp;![](technologies_badges/yandex_cloud.svg)&nbsp;
+![](technologies_badges/html.svg)&nbsp;![](technologies_badges/css.svg)
 
 </div>
 
@@ -15,6 +15,6 @@ The repository was created to host badges of my technology stack with subsequent
 ## Contact icons:
 <div style="background: #FFF; padding-top: 10px; margin: 0 35%">
 
-![](social/location_logo.svg)&nbsp;![](social/email_logo.svg)&nbsp;![](social/github_logo.svg)&nbsp;![](social/linkedin_logo.svg)&nbsp;![](social/phone_logo.svg)&nbsp;![](social/telegram_logo.svg)&nbsp;![](social/whatsapp_logo.svg)
+![](contact_icons/location_logo.svg)&nbsp;![](contact_icons/email_logo.svg)&nbsp;![](contact_icons/github_logo.svg)&nbsp;![](contact_icons/linkedin_logo.svg)&nbsp;![](contact_icons/phone_logo.svg)&nbsp;![](contact_icons/telegram_logo.svg)&nbsp;![](contact_icons/whatsapp_logo.svg)
 </div>
 </div>
