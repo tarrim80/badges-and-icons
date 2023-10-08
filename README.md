@@ -5,7 +5,7 @@ The repository was created to host badges of my technology stack with subsequent
 
 ## technologies_badges:
 
-![](technologies_badges_badges/python.svg)&nbsp;![](technologies_badges/git.svg)&nbsp;![](technologies_badges/github.svg)&nbsp;![](technologies_badges/django.svg)&nbsp;![](technologies_badges/django_rest_framework.svg)&nbsp;![](technologies_badges/postgresql.svg)&nbsp;![](technologies_badges/sql_alchemy.svg)&nbsp;![](technologies_badges/beautiful_soup.svg)&nbsp;![](technologies_badges/scrapy.svg)&nbsp;![](technologies_badges/selenium.svg)&nbsp;![](technologies_badges/docker.svg)&nbsp;![](technologies_badges/nginx.svg)&nbsp;![](technologies_badges/gunicorn.svg)&nbsp;![](technologies_badges/yandex_cloud.svg)&nbsp;
+![](technologies_badges/python.svg)&nbsp;![](technologies_badges/git.svg)&nbsp;![](technologies_badges/github.svg)&nbsp;![](technologies_badges/django.svg)&nbsp;![](technologies_badges/django_rest_framework.svg)&nbsp;![](technologies_badges/postgresql.svg)&nbsp;![](technologies_badges/sql_alchemy.svg)&nbsp;![](technologies_badges/beautiful_soup.svg)&nbsp;![](technologies_badges/scrapy.svg)&nbsp;![](technologies_badges/selenium.svg)&nbsp;![](technologies_badges/docker.svg)&nbsp;![](technologies_badges/nginx.svg)&nbsp;![](technologies_badges/gunicorn.svg)&nbsp;![](technologies_badges/yandex_cloud.svg)&nbsp;
 ![](technologies_badges/html.svg)&nbsp;![](technologies_badges/css.svg)
 
 </div>
